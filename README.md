@@ -4,7 +4,7 @@
 
 ## 🧑‍🎓 About Me
 
-- 🎓 Student | Cybersecurity Enthusiast | Professional Coffee Drinker
+- 🎓 Student | Cybersecurity Enthusiast | Professional Coffee Drinker 
 - 🛡️ On a quest to make the internet a safer (and slightly more fun) place.
 - 💻 I break stuff (ethically) so others can sleep easy! 
 - 🧩 Puzzle solver, meme lover, and aspiring CTF (Capture The Flag) champion.
