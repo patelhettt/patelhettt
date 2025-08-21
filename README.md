@@ -217,6 +217,21 @@ graph LR
 
 ---
 
+## 📁 Portfolio Navigation
+
+<div align="center">
+
+| 📄 Page | 📝 Description | 🔗 Link |
+|:---:|:---|:---|
+| **🚀 Projects** | Detailed project showcase | [View Projects](projects.md) |
+| **🛠️ Skills** | Technical skills & certifications | [View Skills](skills.md) |
+| **🌐 Contact** | Connect & collaborate | [Get In Touch](contact.md) |
+| **🧭 Navigation** | Portfolio guide | [Navigation Guide](NAVIGATION.md) |
+
+</div>
+
+---
+
 <div align="center">
   <h3>🚀 Ready to secure the digital world together?</h3>
   <p>Let's connect and collaborate on cybersecurity projects!</p>
