@@ -1,21 +1,38 @@
-# Het Patel
+# Project Title
 
-## Introduction
-I am Het Patel, a Final Year IT Student at BVM, with a focus on Cybersecurity. I specialize in Vulnerability Assessment and Penetration Testing (VAPT) for web applications.
+![GitHub Repo stars](https://img.shields.io/github/stars/patelhettt/patelhettt?style=social)
+![GitHub forks](https://img.shields.io/github/forks/patelhettt/patelhettt?style=social)
+![GitHub issues](https://img.shields.io/github/issues/patelhettt/patelhettt)
+![GitHub license](https://img.shields.io/github/license/patelhettt/patelhettt)
 
-## Achievements
-- **CTFs:** Actively participate in Capture The Flag competitions.
-- **Ranking:** Top 5% on TryHackMe.
+![Attractive Sticker](https://example.com/sticker.png)
 
-## Contact Information
-- Email: [hetworkshard@gmail.com](mailto:hetworkshard@gmail.com)
-- LinkedIn: [Het Patel](https://www.linkedin.com/in/hetpatel9/)
-- TryHackMe: [Profile](https://tryhackme.com/p/hett)
-- Medium: [Blog](https://hettt.medium.com)
+## Description
 
-## Recent Repositories
-- [Repository 1](#)
-- [Repository 2](#)
-- [Repository 3](#)
+This project is designed to ...
 
-Feel free to reach out for collaboration or inquiries!
+## Features
+- Feature 1
+- Feature 2
+
+## Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/patelhettt/patelhettt.git
+```
+
+## Usage
+
+```bash
+# Run the project
+npm start
+```
+
+## Contributing
+
+Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
